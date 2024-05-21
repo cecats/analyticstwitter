@@ -1,6 +1,5 @@
 ```markdown
-# analyticstwitter
-# Twitter Daily Stats Bot
+# analytics twitter
 
 This Python script collects daily statistics from a specified Twitter account and sends the results to a specified Telegram group using a bot. The script runs daily at a specified time and logs all activities.
 
